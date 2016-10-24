@@ -1,0 +1,3 @@
+# DIJA
+
+Project examined the DJIA for the last ten years.  The quantitative analysis included a look at the index values, daily log returns (to check time-varying volatility and volatility clustering), normality of log returns (to check skewness and kurtosis as compared to the normal probability density function), annualized standard deviation of the log returns (historical volatility), quantile-quantile plot of daily log returns (to further check normality), and plots for rolling mean log returns, rolling volatility, rolling correlation (252 days).  Written with Python 3.5, NumPy, pandas, matplotlib, statsmodels, scipy, PyCharm.
